@@ -1,6 +1,8 @@
 # Camera streaming using opencv and flask
 Author: Kevin Stark
 
+
+
 ## English Introduction
 Capture video frames on the camera end (local_camera.py) using OpenCV.  
 Send to client (client.py) in MJPEG format through Python's Flask server.  
